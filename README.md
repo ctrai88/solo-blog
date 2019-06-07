@@ -10,6 +10,7 @@
 
 ### 最新
 
+* [人类将会发出第一条有生命的信息！！！](http://hassis.club/articles/2019/06/07/1559842262400.html)
 * [基因测序，为什么需要云计算](http://hassis.club/articles/2019/04/24/1556117723585.html)
 * [了解Docker和K8S](http://hassis.club/articles/2019/04/24/1556117484359.html)
 * [在阿里云上部署 solo 博客](http://hassis.club/articles/2019/04/24/1556042049609.html)
