@@ -10,6 +10,8 @@
 
 ### 最新
 
+* [“爸爸，我回不来了”9岁女童被害后，我们需要思考什么？](http://hassis.club/articles/2019/07/17/1563377563086.html)
+* [张扣扣的罪与罚](http://hassis.club/articles/2019/07/17/1563374763087.html)
 * [人类将会发出第一条有生命的信息！！！](http://hassis.club/articles/2019/06/07/1559842262400.html)
 * [基因测序，为什么需要云计算](http://hassis.club/articles/2019/04/24/1556117723585.html)
 * [了解Docker和K8S](http://hassis.club/articles/2019/04/24/1556117484359.html)
